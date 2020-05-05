@@ -1,5 +1,5 @@
 # SMART on FHIR Example App: BMI Calculator
-Download the walkthrough guide here: <insert link to walkthrough guide>
+Download the walkthrough guide here: https://bit.ly/SMART_FHIR
 
 # Description
 This repository was originally forked from https://github.com/cerner/smart-on-fhir-tutorial and is an example BMI Calculator SMART on FHIR application.
