@@ -1,8 +1,8 @@
-# SMART on FHIR Example App: BMI Calculator
+# SMART on FHIR Example App: BMI Calculator [Final]
 Open the Tutorial PDF above to get started
 
 # Description
-This repository was originally forked from https://github.com/cerner/smart-on-fhir-tutorial and is the starting point for building an example BMI Calculator SMART on FHIR application.
+This repository was originally forked from https://github.com/cerner/smart-on-fhir-tutorial and is the completed example for building a BMI Calculator SMART on FHIR application.
 
 # Prerequisites
 1) Microsoft Visual Studio Code or proficiency with similar web integrated development environment (IDE). You will need to run a live server and launch HTML files in Firefox.
